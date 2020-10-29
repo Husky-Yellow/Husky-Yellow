@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Husky-Yellow)](https://github.com/Husky-Yellow/github-readme-stats)
+
+
+
