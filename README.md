@@ -1,24 +1,12 @@
-### Hi there 👋
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohyunQVQ" />
 
-<!--
-**Husky-Yellow/Husky-Yellow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello 👋
 
-Here are some ideas to get you started:
+😄 listen to my this week song list of top 5:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
--->
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Husky-Yellow)](https://github.com/Husky-Yellow/github-readme-stats)
-
-
+0. 🌈Behind the Clouds - yaeow
+1. 🌈Follow The Coastline - Masetti/The Jokerr
+2. 🌈Phone - MNEK
+3. 🌈Summer on You - PRETTYMUCH
+4. 🌈Savage Love (Laxed - Siren Beat) - Jawsh 685/Jason Derulo
 
