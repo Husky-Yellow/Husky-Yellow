@@ -51,7 +51,7 @@ def getSongData(uid, song_type = 1):
     return song_data
 
 argv = sys.argv
-uid  = '533124526'
+uid  = '341893546'
 song_type = 1
 del argv[0]
 if len(argv)>=1:
