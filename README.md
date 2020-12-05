@@ -1,7 +1,5 @@
 <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husky-Yellow&layout=compact" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Husky-Yellow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hello 👋
 
 😄 listen to my this week song list of top 5:
