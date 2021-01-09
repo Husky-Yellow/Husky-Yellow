@@ -5,8 +5,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈撒野 - 凯瑟喵
-1. 🌈童话镇 - 暗杠
-2. 🌈Legends Were Born - 英雄联盟
-3. 🌈Rift Rivals 2018 - 英雄联盟/The Bloody Beetroots
-4. 🌈MEGALOBOX - Mabanua
+1. 🌈第一次 - 光良
+2. 🌈unravel (acoustic version) - TK from 凛として時雨
+3. 🌈Lemon - 米津玄師
+4. 🌈动物世界 - 薛之谦
 
