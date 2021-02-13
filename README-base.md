@@ -1,6 +1,4 @@
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husky-Yellow" />
-
-### Hello 👋
+# Hello 👋
 
 ## About me
 
@@ -12,7 +10,7 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 - Open source :octocat:
 
 ## My Data
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husky-Yellow" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husky-Yellow" />
 
 😄 listen to my this week song list of top 5:
 
