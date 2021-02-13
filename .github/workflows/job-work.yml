@@ -26,7 +26,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: set git config 
       run: |
-        git config --global user.name "Husky-Yellow[bot]"
+        git config --global user.name "Husky-Yellow"
         git config --global user.email "473795376@qq.com"
     - name: git pull erp
       run: |
@@ -37,5 +37,5 @@ jobs:
     - name: commit to rep
       run: |
         git add README.md
-        git commit -m "Update README.md"
+        git commit --allow-empty -m "Update README.md"
         git push
