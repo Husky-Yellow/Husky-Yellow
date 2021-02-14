@@ -16,7 +16,7 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈春三月 - 司南
 1. 🌈星茶会 - 灰澈
-2. 🌈You Will Remember - Marius De Le Mer/Samantha Powell
-3. 🌈战斗-通往胜利 - 陈致逸
-4. 🌈牵丝戏 - 银临/Aki阿杰
+2. 🌈战斗-通往胜利 - 陈致逸
+3. 🌈牵丝戏 - 银临/Aki阿杰
+4. 🌈鲸落万物生 - 灼夭/小田音乐社
 
