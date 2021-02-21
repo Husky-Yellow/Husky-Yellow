@@ -14,9 +14,9 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈牵丝戏 - 银临/Aki阿杰
-1. 🌈半城烟沙 - 许嵩
-2. 🌈鲸落万物生 - 灼夭/小田音乐社
-3. 🌈游山恋 (女生版) - 虞姬/圈妹
-4. 🌈武当 - 等什么君
+0. 🌈Luv Letter - TSUKINOSORA
+1. 🌈杀破狼 - JS
+2. 🌈No Glory - Drama B/Krale/Skan/M.I.M.E
+3. 🌈爱殇 - 小时姑娘
+4. 🌈剑心 - 张杰
 
