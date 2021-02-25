@@ -16,7 +16,7 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈Luv Letter - TSUKINOSORA
 1. 🌈杀破狼 - JS
-2. 🌈No Glory - Drama B/Krale/Skan/M.I.M.E
-3. 🌈爱殇 - 小时姑娘
-4. 🌈剑心 - 张杰
+2. 🌈爱殇 - 小时姑娘
+3. 🌈剑心 - 张杰
+4. 🌈牵丝戏 - 银临/Aki阿杰
 
