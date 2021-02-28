@@ -14,9 +14,9 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Luv Letter - TSUKINOSORA
-1. 🌈杀破狼 - JS
-2. 🌈爱殇 - 小时姑娘
-3. 🌈剑心 - 张杰
-4. 🌈Håll Om Mig - Nanne Grönvall
+0. 🌈错位时空 - 艾辰
+1. 🌈一生独一 - 卢焱
+2. 🌈少一点天分 - 孙盛希
+3. 🌈藏 - 徐梦圆/双笙
+4. 🌈大海 - 张雨生
 
