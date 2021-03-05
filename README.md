@@ -16,7 +16,7 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈错位时空 - 艾辰
 1. 🌈裙下之臣 - 陈奕迅
-2. 🌈患难见真情 - 阿清
-3. 🌈一生独一 - 卢焱
-4. 🌈何以歌 - Aki阿杰
+2. 🌈一生独一 - 卢焱
+3. 🌈何以歌 - Aki阿杰
+4. 🌈少一点天分 - 孙盛希
 
