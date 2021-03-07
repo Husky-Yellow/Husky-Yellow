@@ -16,7 +16,7 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈错位时空 - 艾辰
 1. 🌈裙下之臣 - 陈奕迅
-2. 🌈一生独一 - 卢焱
-3. 🌈何以歌 - Aki阿杰
-4. 🌈少一点天分 - 孙盛希
+2. 🌈体面 - 于文文
+3. 🌈吉光片羽 - 小义学长
+4. 🌈You Will Remember - Marius De Le Mer/Samantha Powell
 
