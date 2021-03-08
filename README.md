@@ -15,8 +15,8 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈错位时空 - 艾辰
-1. 🌈裙下之臣 - 陈奕迅
-2. 🌈体面 - 于文文
-3. 🌈吉光片羽 - 小义学长
-4. 🌈You Will Remember - Marius De Le Mer/Samantha Powell
+1. 🌈体面 - 于文文
+2. 🌈吉光片羽 - 小义学长
+3. 🌈You Will Remember - Marius De Le Mer/Samantha Powell
+4. 🌈红色高跟鞋 (Live) - 韩雪/刘敏涛/万茜
 
