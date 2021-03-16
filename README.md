@@ -17,6 +17,6 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 0. 🌈四季予你 - 程响
 1. 🌈盗墓笔记·十年人间 - 李常超 (Lao乾妈)
 2. 🌈第一次 - 光良
-3. 🌈Bloom of Youth - 清水淳一
-4. 🌈盗将行 - 花粥/马雨阳
+3. 🌈撒野 - 凯瑟喵
+4. 🌈LOSER - 米津玄師
 
