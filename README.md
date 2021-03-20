@@ -14,9 +14,9 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈盗墓笔记·十年人间 - 李常超 (Lao乾妈)
-1. 🌈第一次 - 光良
-2. 🌈Old Memory - 蓝云木
-3. 🌈永不失联的爱 - 周兴哲
-4. 🌈打上花火 - 米津玄師
+0. 🌈China Anthem - 英雄联盟
+1. 🌈Aggressive Michael - The Diner
+2. 🌈Hybrid Worlds - 英雄联盟
+3. 🌈Phunky Pheet - Killer Tracks
+4. 🌈Born a Champion - Network Music Ensemble
 
