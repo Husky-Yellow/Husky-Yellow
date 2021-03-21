@@ -15,8 +15,8 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈China Anthem - 英雄联盟
-1. 🌈Aggressive Michael - The Diner
-2. 🌈Hybrid Worlds - 英雄联盟
-3. 🌈Phunky Pheet - Killer Tracks
-4. 🌈Born a Champion - Network Music Ensemble
+1. 🌈Silver Scrapes - 英雄联盟/Danny McCarthy
+2. 🌈Aggressive Michael - The Diner
+3. 🌈Hybrid Worlds - 英雄联盟
+4. 🌈Legends Were Born - 英雄联盟
 
