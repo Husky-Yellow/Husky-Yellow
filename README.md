@@ -15,8 +15,8 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈Flight - Tristam/Braken
-1. 🌈The Heart of a Champion - Network Music Ensemble
-2. 🌈Aggressive Michael - The Diner
-3. 🌈Legends Were Born - 英雄联盟
-4. 🌈Silver Scrapes - 英雄联盟/Danny McCarthy
+1. 🌈Man At Arms - Position Music
+2. 🌈The Heart of a Champion - Network Music Ensemble
+3. 🌈盗墓笔记·十年人间 - 李常超 (Lao乾妈)
+4. 🌈第一次 - 光良
 
