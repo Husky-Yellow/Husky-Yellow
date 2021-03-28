@@ -17,6 +17,6 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 0. 🌈Flight - Tristam/Braken
 1. 🌈Man At Arms - Position Music
 2. 🌈The Heart of a Champion - Network Music Ensemble
-3. 🌈盗墓笔记·十年人间 - 李常超 (Lao乾妈)
-4. 🌈第一次 - 光良
+3. 🌈Sad Run - V.A.
+4. 🌈熬夜上瘾 - 刘亦心（可乐就是力量）
 
