@@ -16,7 +16,7 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈Flight - Tristam/Braken
 1. 🌈Man At Arms - Position Music
-2. 🌈Sad Run - V.A.
-3. 🌈Time Bomb (feat. Veela) - Boyinaband/Feint/Veela
-4. 🌈The Heart of a Champion - Network Music Ensemble
+2. 🌈String Tek - X-Ray Dog
+3. 🌈Into the Battlefield II - 古川ヒロシ
+4. 🌈Sad Run - V.A.
 
