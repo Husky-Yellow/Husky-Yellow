@@ -14,9 +14,9 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Flight - Tristam/Braken
-1. 🌈Man At Arms - Position Music
-2. 🌈String Tek - X-Ray Dog
-3. 🌈Time Bomb (feat. Veela) - Boyinaband/Feint/Veela
-4. 🌈Yasuo - MMZ-BOY
+0. 🌈Man At Arms - Position Music
+1. 🌈Electric Romeo - Immediate Music
+2. 🌈Party Crowd - Christian Drommer/Markus Kretschmer
+3. 🌈New Era - Ahrix
+4. 🌈Flight - Tristam/Braken
 
