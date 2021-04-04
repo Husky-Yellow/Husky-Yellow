@@ -14,9 +14,9 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Man At Arms - Position Music
-1. 🌈Electric Romeo - Immediate Music
-2. 🌈Party Crowd - Christian Drommer/Markus Kretschmer
-3. 🌈New Era - Ahrix
-4. 🌈Dragon Rider - Two Steps From Hell
+0. 🌈New Era - Ahrix
+1. 🌈String Tek - X-Ray Dog
+2. 🌈Electric Romeo - Immediate Music
+3. 🌈Party Crowd - Christian Drommer/Markus Kretschmer
+4. 🌈Star Sky - Two Steps From Hell
 
