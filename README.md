@@ -14,9 +14,9 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Party Crowd - Christian Drommer/Markus Kretschmer
-1. 🌈The 7 Seas - F-777
-2. 🌈夜闯秋名山（弹幕歌词版） - HOPE-T
-3. 🌈Worlds Collide - Nicki Taylor
-4. 🌈Electric Romeo - Immediate Music
+0. 🌈The 7 Seas - F-777
+1. 🌈夜闯秋名山（弹幕歌词版） - HOPE-T
+2. 🌈Party Crowd - Christian Drommer/Markus Kretschmer
+3. 🌈Clarity (Tiesto Remix) - Zedd/Foxes
+4. 🌈Remember (Original Mix) - Sensitive/Bogdan Bondarenko
 
