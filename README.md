@@ -14,9 +14,9 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈The 7 Seas - F-777
-1. 🌈夜闯秋名山（弹幕歌词版） - HOPE-T
-2. 🌈Clarity (Tiesto Remix) - Zedd/Foxes
-3. 🌈Remember (Original Mix) - Sensitive/Bogdan Bondarenko
-4. 🌈飞机场 remix版 - 徐良
+0. 🌈Clarity (Tiesto Remix) - Zedd/Foxes
+1. 🌈飞机场 remix版 - 徐良
+2. 🌈记事本 - 陈慧琳
+3. 🌈单车恋人 - 后弦
+4. 🌈哑巴 - 薛之谦
 
