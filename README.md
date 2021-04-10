@@ -14,9 +14,9 @@ I'm Zhaoku Zhangn, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Clarity (Tiesto Remix) - Zedd/Foxes
-1. 🌈飞机场 remix版 - 徐良
-2. 🌈记事本 - 陈慧琳
-3. 🌈单车恋人 - 后弦
-4. 🌈哑巴 - 薛之谦
+0. 🌈Lifeline - Zeraphym 六翼使徒
+1. 🌈吻得太逼真 - 张敬轩
+2. 🌈Here With You - Asher Monroe
+3. 🌈红装 - 徐良
+4. 🌈This Is It - Oh The Larceny
 
