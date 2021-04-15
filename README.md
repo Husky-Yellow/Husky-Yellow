@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Lifeline - Zeraphym 六翼使徒
-1. 🌈吻得太逼真 - 张敬轩
+0. 🌈红装 - 徐良
+1. 🌈Lifeline - Zeraphym 六翼使徒
 2. 🌈Here With You - Asher Monroe
-3. 🌈红装 - 徐良
-4. 🌈This Is It - Oh The Larceny
+3. 🌈盗将行 - 花粥/马雨阳
+4. 🌈行星（PLANET） - 谭联耀
 
