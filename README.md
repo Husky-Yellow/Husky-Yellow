@@ -42,7 +42,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈红装 - 徐良
 1. 🌈Lifeline - Zeraphym 六翼使徒
-2. 🌈Here With You - Asher Monroe
-3. 🌈盗将行 - 花粥/马雨阳
+2. 🌈盗将行 - 花粥/马雨阳
+3. 🌈房间-新版 - 刘瑞琦
 4. 🌈行星（PLANET） - 谭联耀
 
