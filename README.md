@@ -41,8 +41,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈童话 - 光良
-1. 🌈后来 - 刘若英
-2. 🌈海浪 - 黄品源
-3. 🌈小薇 - 黄品源
-4. 🌈红玫瑰 - 陈奕迅
+1. 🌈Vagrant - Feint/Veela
+2. 🌈七秒钟的记忆 - 徐良/孙羽幽
+3. 🌈后来 - 刘若英
+4. 🌈鱼缸 - 浦东老农民/乔竹禾/Katherine Yu
 
