@@ -41,8 +41,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈さくら ~あなたに出会えてよかった~ - RSP
-1. 🌈STYX HELIX - MYTH & ROID
-2. 🌈Vagrant - Feint/Veela
-3. 🌈七秒钟的记忆 - 徐良/孙羽幽
-4. 🌈鱼缸 - 浦东老农民/乔竹禾/Katherine Yu
+1. 🌈YELL - いきものがかり
+2. 🌈STYX HELIX - MYTH & ROID
+3. 🌈Vagrant - Feint/Veela
+4. 🌈七秒钟的记忆 - 徐良/孙羽幽
 
