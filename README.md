@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈不分手的恋爱 - 汪苏泷
-1. 🌈七月七日晴 - 许慧欣
-2. 🌈虐心 - 徐良/孙羽幽
-3. 🌈多余的解释 - 许嵩
-4. 🌈红色高跟鞋 - 猪猪饿晕了
+0. 🌈难以启齿的柔弱 - 金志文
+1. 🌈后会无期 - 野小马
+2. 🌈邂逅 - 徐良/杨菲洋
+3. 🌈杀手 - 林俊杰
+4. 🌈我们不该这样的 - 张赫宣
 
