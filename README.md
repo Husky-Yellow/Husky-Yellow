@@ -42,7 +42,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈后会无期 - 野小马
 1. 🌈难以启齿的柔弱 - 金志文
-2. 🌈杀手 - 林俊杰
-3. 🌈邂逅 - 徐良/杨菲洋
-4. 🌈老人与海 - 彭芳
+2. 🌈老人与海 - 彭芳
+3. 🌈杀手 - 林俊杰
+4. 🌈邂逅 - 徐良/杨菲洋
 
