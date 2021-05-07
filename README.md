@@ -41,8 +41,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈后会无期 - 野小马
-1. 🌈难以启齿的柔弱 - 金志文
-2. 🌈老人与海 - 彭芳
-3. 🌈杀手 - 林俊杰
-4. 🌈邂逅 - 徐良/杨菲洋
+1. 🌈전쟁이야 - MBLAQ
+2. 🌈我好想你 - 潘广益
+3. 🌈老人与海 - 彭芳
+4. 🌈分手季节 - 汪苏泷
 
