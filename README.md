@@ -41,8 +41,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈苦笑 - 汪苏泷
-1. 🌈少年中国说 (Live) - 张杰
-2. 🌈专属味道 - 汪苏泷
-3. 🌈万有引力 - 汪苏泷
-4. 🌈虞兮叹 - 闻人听書_
+1. 🌈专属味道 - 汪苏泷
+2. 🌈万有引力 - 汪苏泷
+3. 🌈虞兮叹 - 闻人听書_
+4. 🌈大田后生仔 (翻自 林啟得)  - 野小马
 
