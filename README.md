@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈苦笑 - 汪苏泷
-1. 🌈专属味道 - 汪苏泷
-2. 🌈万有引力 - 汪苏泷
-3. 🌈虞兮叹 - 闻人听書_
-4. 🌈大田后生仔 (翻自 林啟得)  - 野小马
+0. 🌈后会无期 - 野小马
+1. 🌈Sweet but Psycho - Biscuits
+2. 🌈新时期的力量 -  张卫
+3. 🌈全世界宣布爱你 - 完整版 - 李潇潇/孙子涵
+4. 🌈可乐 - 赵紫骅
 
