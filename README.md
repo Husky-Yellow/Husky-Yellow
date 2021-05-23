@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈无名之辈 - 陈雪燃
-1. 🌈四块五 - 隔壁老樊
-2. 🌈远走高飞 - 金志文
-3. 🌈明天会更好 - 群星
-4. 🌈只要有你（Cover 古巨基 / 黄奕 / 周杰 / 马伊琍 / 黄晓明 / 刘涛） - 叶诗涵/诺言Jason/足音/唯唯/星魅/Jason嘉
+0. 🌈凭什么说 - 刘心
+1. 🌈只要有你（Cover 古巨基 / 黄奕 / 周杰 / 马伊琍 / 黄晓明 / 刘涛） - 叶诗涵/诺言Jason/足音/唯唯/星魅/Jason嘉
+2. 🌈无名之辈 - 陈雪燃
+3. 🌈四块五 - 隔壁老樊
+4. 🌈远走高飞 - 金志文
 
