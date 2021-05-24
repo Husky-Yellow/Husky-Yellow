@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈凭什么说 - 刘心
+0. 🌈海底（Live） - 凤凰传奇
 1. 🌈只要有你（Cover 古巨基 / 黄奕 / 周杰 / 马伊琍 / 黄晓明 / 刘涛） - 叶诗涵/诺言Jason/足音/唯唯/星魅/Jason嘉
-2. 🌈无名之辈 - 陈雪燃
-3. 🌈四块五 - 隔壁老樊
-4. 🌈远走高飞 - 金志文
+2. 🌈凭什么说 - 刘心
+3. 🌈Man At Arms - Position Music
+4. 🌈走不出的回忆 - 任然
 
