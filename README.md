@@ -41,8 +41,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈海底（Live） - 凤凰传奇
-1. 🌈Booty Music - Deep Side
-2. 🌈后会无期 - 野小马
-3. 🌈Man At Arms - Position Music
-4. 🌈LOSER - 米津玄師
+1. 🌈后会无期 - 野小马
+2. 🌈LOSER - 米津玄師
+3. 🌈Run Away - Donnie Bravo
+4. 🌈You Are Beautiful - 刘沁
 
