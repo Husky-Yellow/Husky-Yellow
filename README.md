@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈海底（Live） - 凤凰传奇
-1. 🌈后会无期 - 野小马
-2. 🌈LOSER - 米津玄師
-3. 🌈Run Away - Donnie Bravo
-4. 🌈You Are Beautiful - 刘沁
+0. 🌈后会无期 - 野小马
+1. 🌈LOSER - 米津玄師
+2. 🌈Run Away - Donnie Bravo
+3. 🌈You Are Beautiful - 刘沁
+4. 🌈Samurai - DEAF KEV
 
