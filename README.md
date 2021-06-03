@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈LOSER - 米津玄師
-1. 🌈Run Away - Donnie Bravo
-2. 🌈You Are Beautiful - 刘沁
-3. 🌈Samurai - DEAF KEV
-4. 🌈Break Up in a Small Town - Sam Hunt
+0. 🌈Samurai - DEAF KEV
+1. 🌈It's My Life - Bon Jovi
+2. 🌈I WANNA CHANGE - THE STREET BEATS
+3. 🌈PLANET - ラムジ
+4. 🌈PLANET（Cover ラムジ） - ゆう十
 
