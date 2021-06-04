@@ -41,8 +41,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈Samurai - DEAF KEV
-1. 🌈It's My Life - Bon Jovi
-2. 🌈I WANNA CHANGE - THE STREET BEATS
-3. 🌈PLANET - ラムジ
-4. 🌈PLANET（Cover ラムジ） - ゆう十
+1. 🌈Sad Run - V.A.
+2. 🌈LOSER - 米津玄師
+3. 🌈Run Away - Donnie Bravo
+4. 🌈You Are Beautiful - 刘沁
 
