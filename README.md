@@ -42,7 +42,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈Samurai - DEAF KEV
 1. 🌈Sad Run - V.A.
-2. 🌈LOSER - 米津玄師
-3. 🌈Run Away - Donnie Bravo
-4. 🌈You Are Beautiful - 刘沁
+2. 🌈Run Away - Donnie Bravo
+3. 🌈City - 羽肿
+4. 🌈She Is My Sin - Nightwish
 
