@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Samurai - DEAF KEV
-1. 🌈Sad Run - V.A.
-2. 🌈Run Away - Donnie Bravo
-3. 🌈City - 羽肿
-4. 🌈She Is My Sin - Nightwish
+0. 🌈Sad Run - V.A.
+1. 🌈City - 羽肿
+2. 🌈Samurai - DEAF KEV
+3. 🌈Coming Home - Diddy-Dirty Money/Skylar Grey
+4. 🌈It's My Life - Bon Jovi
 
