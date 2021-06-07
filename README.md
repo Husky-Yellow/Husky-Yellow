@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Sad Run - V.A.
-1. 🌈City - 羽肿
-2. 🌈Samurai - DEAF KEV
-3. 🌈Coming Home - Diddy-Dirty Money/Skylar Grey
-4. 🌈It's My Life - Bon Jovi
+0. 🌈Aphrodite - S.E.N.S.
+1. 🌈沸き上がる闘志 - 六三四
+2. 🌈Get Going - Thomas Greenberg
+3. 🌈Sad Run - V.A.
+4. 🌈Where am I? - 蓝云木
 
