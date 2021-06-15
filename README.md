@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈热爱 105 °C的你（完整版）（阿肆） - 一一
-1. 🌈海底（Live） - 凤凰传奇
-2. 🌈迎着风（电影《四平青年之浩哥大战古惑仔》主题曲） - 蓝波
+0. 🌈海底（Live） - 凤凰传奇
+1. 🌈热爱 105 °C的你（完整版）（阿肆） - 一一
+2. 🌈Blueming - IU
 3. 🌈凭什么说 - 刘心
 4. 🌈只要有你（Cover 古巨基 / 黄奕 / 周杰 / 马伊琍 / 黄晓明 / 刘涛） - 叶诗涵/诺言Jason/足音/唯唯/星魅/Jason嘉
 
