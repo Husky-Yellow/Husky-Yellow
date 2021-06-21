@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Blueming - IU
-1. 🌈잼잼 - IU
-2. 🌈twenty three - IU
-3. 🌈Celebrity - IU
+0. 🌈twenty three - IU
+1. 🌈Celebrity - IU
+2. 🌈Blueming - IU
+3. 🌈잼잼 - IU
 4. 🌈삐삐 - IU
 
