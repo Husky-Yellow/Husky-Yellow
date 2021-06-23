@@ -42,7 +42,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈twenty three - IU
 1. 🌈Celebrity - IU
-2. 🌈Blueming - IU
-3. 🌈잼잼 - IU
-4. 🌈삐삐 - IU
+2. 🌈斑马, 斑马 - IU
+3. 🌈第一次 - 光良
+4. 🌈unravel (acoustic version) - TK from 凛として時雨
 
