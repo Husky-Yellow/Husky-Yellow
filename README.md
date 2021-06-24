@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈twenty three - IU
-1. 🌈Celebrity - IU
-2. 🌈斑马, 斑马 - IU
-3. 🌈第一次 - 光良
-4. 🌈unravel (acoustic version) - TK from 凛として時雨
+0. 🌈Celebrity - IU
+1. 🌈twenty three - IU
+2. 🌈잼잼 - IU
+3. 🌈팔레트 - IU/G-Dragon
+4. 🌈斑马, 斑马 - IU
 
