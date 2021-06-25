@@ -42,7 +42,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈Celebrity - IU
 1. 🌈twenty three - IU
-2. 🌈잼잼 - IU
-3. 🌈팔레트 - IU/G-Dragon
-4. 🌈斑马, 斑马 - IU
+2. 🌈さくら 〜あなたに出会えてよかった〜 - RSP
+3. 🌈Touch The Sky (ANR151) - Cedric Gervais/Digital Farm Animals/Dallas Austin
+4. 🌈Man At Arms - Position Music
 
