@@ -40,8 +40,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Celebrity - IU
-1. 🌈twenty three - IU
+0. 🌈twenty three - IU
+1. 🌈Celebrity - IU
 2. 🌈さくら 〜あなたに出会えてよかった〜 - RSP
 3. 🌈Touch The Sky (ANR151) - Cedric Gervais/Digital Farm Animals/Dallas Austin
 4. 🌈Man At Arms - Position Music
