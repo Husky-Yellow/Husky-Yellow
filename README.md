@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈twenty three - IU
-1. 🌈さくら 〜あなたに出会えてよかった〜 - RSP
-2. 🌈Touch The Sky (ANR151) - Cedric Gervais/Digital Farm Animals/Dallas Austin
-3. 🌈Man At Arms - Position Music
-4. 🌈Boomerang - Brooks/GRX
+0. 🌈さくら 〜あなたに出会えてよかった〜 - RSP
+1. 🌈Touch The Sky (ANR151) - Cedric Gervais/Digital Farm Animals/Dallas Austin
+2. 🌈Man At Arms - Position Music
+3. 🌈Boomerang - Brooks/GRX
+4. 🌈让我为你唱首歌 - 张翰/朱梓骁/魏晨/俞灏明
 
