@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈twenty three - IU
-1. 🌈半城烟沙 - 许嵩
-2. 🌈鲸落万物生 - 灼夭/小田音乐社
-3. 🌈武当 - 等什么君
-4. 🌈星茶会 - 灰澈
+0. 🌈星茶会 - 灰澈
+1. 🌈遇到 - 方雅贤
+2. 🌈城南花已开 - 三亩地
+3. 🌈CX - LevitateXC
+4. 🌈Seven (Jiaye Reboot) - Jiaye/Tobu
 
