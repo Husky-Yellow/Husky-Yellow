@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈twenty three - IU
-1. 🌈裙下之臣 - 陈奕迅
-2. 🌈盗将行 - 花粥/马雨阳
-3. 🌈明天会更好 - 群星
-4. 🌈我的未来不是梦 - 张雨生
+0. 🌈明天会更好 - 群星
+1. 🌈撒野 - 凯瑟喵
+2. 🌈动物世界 - 薛之谦
+3. 🌈twenty three - IU
+4. 🌈Booty Music - Deep Side
 
