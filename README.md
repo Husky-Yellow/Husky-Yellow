@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈明天会更好 - 群星
-1. 🌈撒野 - 凯瑟喵
-2. 🌈动物世界 - 薛之谦
-3. 🌈twenty three - IU
-4. 🌈Booty Music - Deep Side
+0. 🌈房间-新版 - 刘瑞琦
+1. 🌈明天会更好 - 群星
+2. 🌈撒野 - 凯瑟喵
+3. 🌈动物世界 - 薛之谦
+4. 🌈大浪淘沙 - 王朝/玄觞
 
