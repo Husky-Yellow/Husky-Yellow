@@ -42,7 +42,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈房间-新版 - 刘瑞琦
 1. 🌈明天会更好 - 群星
-2. 🌈撒野 - 凯瑟喵
-3. 🌈动物世界 - 薛之谦
-4. 🌈大浪淘沙 - 王朝/玄觞
+2. 🌈动物世界 - 薛之谦
+3. 🌈大浪淘沙 - 王朝/玄觞
+4. 🌈山外小楼夜听雨 - 任然
 
