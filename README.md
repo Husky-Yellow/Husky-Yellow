@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈大浪淘沙 - 王朝/玄觞
-1. 🌈房间-新版 - 刘瑞琦
-2. 🌈明天会更好 - 群星
-3. 🌈动物世界 - 薛之谦
-4. 🌈无法原谅 - 李佳璐
+0. 🌈房间-新版 - 刘瑞琦
+1. 🌈大浪淘沙 - 王朝/玄觞
+2. 🌈山外小楼夜听雨 - 任然
+3. 🌈单身情歌 - 林志炫
+4. 🌈冲动的惩罚 - 刀郎
 
