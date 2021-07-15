@@ -41,8 +41,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈山外小楼夜听雨 - 任然
-1. 🌈雨爱 - 杨丞琳
+1. 🌈男孩 - 梁博/陶孟童/肖和东/高誉容
 2. 🌈抽离 - 徐良/刘丹萌
 3. 🌈犯贱 remix版 - 徐良
-4. 🌈口是心非 - 孙伯纶
+4. 🌈冲动的惩罚 - 刀郎
 
