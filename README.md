@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈山外小楼夜听雨 - 任然
-1. 🌈YELLOW - 神山羊
-2. 🌈Cubi - BINGBIAN 病变（SHENLEI remix） - SHENLEI
-3. 🌈小丑的品格（Cover 泠鸢yousa） - 双笙/三无MarBlue
-4. 🌈千年之恋 - 信乐团/戴爱玲
+0. 🌈YELLOW - 神山羊
+1. 🌈Cubi - BINGBIAN 病变（SHENLEI remix） - SHENLEI
+2. 🌈小丑的品格（Cover 泠鸢yousa） - 双笙/三无MarBlue
+3. 🌈千年之恋 - 信乐团/戴爱玲
+4. 🌈【薛晓/晓薛】归途 - 《锁麟囊》延伸曲 - 漆柚
 
