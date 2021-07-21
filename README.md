@@ -40,9 +40,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈千年之恋 - 信乐团/戴爱玲
-1. 🌈素颜 - 许嵩/何曼婷
-2. 🌈YELLOW - 神山羊
-3. 🌈空山新雨后 - 音阙诗听/锦零
-4. 🌈Cubi - BINGBIAN 病变（SHENLEI remix） - SHENLEI
+0. 🌈word list 02 - 英语听力
+1. 🌈爱不由我 - 尤长靖
+2. 🌈千年之恋 - 信乐团/戴爱玲
+3. 🌈【排骨xPayam1】东京不太热 - 排骨教主/黛米Dem1Fei
+4. 🌈多情种 - 胡杨林
 
