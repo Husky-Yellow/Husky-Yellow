@@ -41,8 +41,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈word list 02 - 英语听力
-1. 🌈爱不由我 - 尤长靖
-2. 🌈千年之恋 - 信乐团/戴爱玲
-3. 🌈【排骨xPayam1】东京不太热 - 排骨教主/黛米Dem1Fei
-4. 🌈多情种 - 胡杨林
+1. 🌈千年之恋 - 信乐团/戴爱玲
+2. 🌈爱不由我 - 尤长靖
+3. 🌈さくら 〜あなたに出会えてよかった〜 - RSP
+4. 🌈Cubi - BINGBIAN 病变（SHENLEI remix） - SHENLEI
 
