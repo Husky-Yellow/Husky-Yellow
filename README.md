@@ -43,6 +43,6 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 0. 🌈word list 02 - 英语听力
 1. 🌈吾生之地 - 玄觞
 2. 🌈长生诀 - 西瓜JUN
-3. 🌈【排骨xPayam1】东京不太热 - 排骨教主/黛米Dem1Fei
+3. 🌈无法原谅 - 李佳璐
 4. 🌈向天再借五百年 - 韩磊
 
