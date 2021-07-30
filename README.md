@@ -42,9 +42,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈吾生之地 - 玄觞
-1. 🌈独立 - 蜜雪薇琪
-2. 🌈向天再借五百年 - 韩磊
+0. 🌈涅槃 - MUE
+1. 🌈吾生之地 - 玄觞
+2. 🌈轮回 - 呦猫UNEKO
 3. 🌈twenty three - IU
-4. 🌈吻得太逼真 - 张敬轩
+4. 🌈独立 - 蜜雪薇琪
 
