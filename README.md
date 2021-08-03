@@ -42,9 +42,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈涅槃 - MUE
-1. 🌈盗将行 - 花粥/马雨阳
-2. 🌈吾生之地 - 玄觞
-3. 🌈轮回 - 呦猫UNEKO
-4. 🌈独立 - 蜜雪薇琪
+0. 🌈盗将行 - 花粥/马雨阳
+1. 🌈Big Hearts (宽阔心胸) - Andy Mei/Barack Obama
+2. 🌈Untitled.als - Mapps
+3. 🌈Humans - Levi
+4. 🌈情人 - 刀郎
 
