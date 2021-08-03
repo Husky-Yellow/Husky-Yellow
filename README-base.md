@@ -34,8 +34,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Husky-Yellow&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husky-Yellow&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-<img  src="https://activity-graph.herokuapp.com/graph?username=Husky-Yellow&theme=redical&show_icons=true&locale=cn&line_height=30">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Husky-Yellow&theme=neon-dark" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Husky-Yellow&theme=redical&show_icons=true&locale=cn&line_height=30">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/husky-yellow/count.svg" />
