@@ -42,9 +42,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈盗将行 - 花粥/马雨阳
-1. 🌈Big Hearts (宽阔心胸) - Andy Mei/Barack Obama
-2. 🌈Untitled.als - Mapps
-3. 🌈Humans - Levi
-4. 🌈给陌生的你听  - G.G(张思源)
+0. 🌈New Boy - 房东的猫/陈婧霏
+1. 🌈不如 - 沈温妤icy
+2. 🌈星河万里 - Rom邢锐
+3. 🌈冬天的秘密 - 张家旺
+4. 🌈twenty three - IU
 
