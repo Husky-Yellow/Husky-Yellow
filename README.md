@@ -42,9 +42,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈New Boy - 房东的猫/陈婧霏
-1. 🌈不如 - 沈温妤icy
-2. 🌈星河万里 - Rom邢锐
-3. 🌈冬天的秘密 - 张家旺
+0. 🌈不如 - 沈温妤icy
+1. 🌈New Boy - 房东的猫/陈婧霏
+2. 🌈冬天的秘密 - 张家旺
+3. 🌈星河万里 - Rom邢锐
 4. 🌈twenty three - IU
 
