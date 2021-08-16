@@ -43,8 +43,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈还是劈开 - 张叶蕾/全体诺克萨斯国战士
-1. 🌈踏山河 - 七叔-叶泽浩
-2. 🌈twenty three - IU
-3. 🌈New Boy - 房东的猫/陈婧霏
-4. 🌈星河万里 - Rom邢锐
+1. 🌈twenty three - IU
+2. 🌈New Boy - 房东的猫/陈婧霏
+3. 🌈星河万里 - Rom邢锐
+4. 🌈踏山河 - 七叔-叶泽浩
 
