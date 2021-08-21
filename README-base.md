@@ -37,10 +37,11 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 <img src="https://activity-graph.herokuapp.com/graph?username=Husky-Yellow&theme=redical&show_icons=true&locale=cn&line_height=30">
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/husky-yellow/count.svg" />
+  <img src="https://profile-counter.glitch.me/husky-yellow/count.svg" /><br>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=Husky-Yellow&theme=neon-dark" />
 </p>
 
- <img src="http://github-readme-streak-stats.herokuapp.com?user=Husky-Yellow&theme=neon-dark" />
+
 
 
 ## My Project
