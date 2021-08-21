@@ -40,6 +40,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
   <img src="https://profile-counter.glitch.me/husky-yellow/count.svg" />
 </p>
 
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=Husky-Yellow&theme=neon-dark" />
+
 
 ## My Project
 
