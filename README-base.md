@@ -40,6 +40,14 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
   <img src="https://profile-counter.glitch.me/husky-yellow/count.svg" />
 </p>
 
+
+## My Project
+
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=softwares&theme=dark)](https://github.com/Husky-Yellow/CodePromise) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=websites&theme=radical)](https://github.com/Husky-Yellow/sensitive_word_substitution) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=ebooks&theme=merko)](https://github.com/Husky-Yellow/Code-Vue-Router) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=code-resources&theme=gruvbox)](https://github.com/Husky-Yellow/Code-Vuex) |
+
 😄 listen to my this week song list of top 5:
 
 {song_list}
