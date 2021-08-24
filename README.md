@@ -54,8 +54,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈마리오네트 - Stellar
-1. 🌈NoNoNo - Apink
-2. 🌈勋章 - 鹿晗
-3. 🌈菊花爆满山 (民谣版) - 马博
-4. 🌈天上飞 - 李承铉
+1. 🌈天上飞 - 李承铉
+2. 🌈NoNoNo - Apink
+3. 🌈勋章 - 鹿晗
+4. 🌈骁 - 井胧/井迪
 
