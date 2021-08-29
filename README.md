@@ -54,8 +54,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈天上飞 - 李承铉
-1. 🌈마리오네트 - Stellar
-2. 🌈NoNoNo - Apink
-3. 🌈独行侠+爱如潮水（remix） - sea蕊/吴炳文Cookie
-4. 🌈心动 - 棱镜
+1. 🌈独行侠+爱如潮水（remix） - sea蕊/吴炳文Cookie
+2. 🌈마리오네트 - Stellar
+3. 🌈NoNoNo - Apink
+4. 🌈STAY - The Kid LAROI/Justin Bieber
 
