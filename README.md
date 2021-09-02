@@ -56,6 +56,6 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 0. 🌈STAY - The Kid LAROI/Justin Bieber
 1. 🌈红装 - 徐良
 2. 🌈菊花爆满山 (民谣版) - 马博
-3. 🌈抽离 - 徐良/刘丹萌
-4. 🌈七秒钟的记忆 - 徐良/孙羽幽
+3. 🌈天上飞 - 李承铉
+4. 🌈Deadwood - Really Slow Motion
 
