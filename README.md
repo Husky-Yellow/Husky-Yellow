@@ -53,9 +53,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈STAY - The Kid LAROI/Justin Bieber
-1. 🌈菊花爆满山 (民谣版) - 马博
+0. 🌈菊花爆满山 (民谣版) - 马博
+1. 🌈STAY - The Kid LAROI/Justin Bieber
 2. 🌈Deadwood - Really Slow Motion
-3. 🌈天上飞 - 李承铉
-4. 🌈红装 - 徐良
+3. 🌈Re:make - ONE OK ROCK
+4. 🌈Legends Never Die (Alan Walker Remix) - Against the Current/Alan Walker/Mako
 
