@@ -56,6 +56,6 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 0. 🌈菊花爆满山 (民谣版) - 马博
 1. 🌈STAY - The Kid LAROI/Justin Bieber
 2. 🌈Deadwood - Really Slow Motion
-3. 🌈Re:make - ONE OK ROCK
-4. 🌈Legends Never Die (Alan Walker Remix) - Against the Current/Alan Walker/Mako
+3. 🌈Digital World - Amaranthe
+4. 🌈Re:make - ONE OK ROCK
 
