@@ -54,8 +54,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈菊花爆满山 (民谣版) - 马博
-1. 🌈STAY - The Kid LAROI/Justin Bieber
-2. 🌈Deadwood - Really Slow Motion
-3. 🌈Digital World - Amaranthe
+1. 🌈Digital World - Amaranthe
+2. 🌈STAY - The Kid LAROI/Justin Bieber
+3. 🌈Deadwood - Really Slow Motion
 4. 🌈Re:make - ONE OK ROCK
 
