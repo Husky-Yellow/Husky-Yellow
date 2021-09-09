@@ -53,9 +53,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈菊花爆满山 (民谣版) - 马博
+0. 🌈情热大陆 - 葉加瀬太郎
 1. 🌈Digital World - Amaranthe
-2. 🌈STAY - The Kid LAROI/Justin Bieber
-3. 🌈Deadwood - Really Slow Motion
-4. 🌈Re:make - ONE OK ROCK
+2. 🌈MEGALOBOX - Mabanua
+3. 🌈沸き上がる闘志 - 六三四
+4. 🌈Get Going - Thomas Greenberg
 
