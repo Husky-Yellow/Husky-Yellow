@@ -54,8 +54,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈情热大陆 - 葉加瀬太郎
-1. 🌈Digital World - Amaranthe
-2. 🌈MEGALOBOX - Mabanua
-3. 🌈沸き上がる闘志 - 六三四
-4. 🌈Get Going - Thomas Greenberg
+1. 🌈Hybrid Worlds - 英雄联盟
+2. 🌈Digital World - Amaranthe
+3. 🌈Awaken - Valerie Broussard/Ray Chen
+4. 🌈MEGALOBOX - Mabanua
 
