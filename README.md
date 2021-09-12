@@ -55,7 +55,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈情热大陆 - 葉加瀬太郎
 1. 🌈Hybrid Worlds - 英雄联盟
-2. 🌈Digital World - Amaranthe
-3. 🌈Awaken - Valerie Broussard/Ray Chen
-4. 🌈MEGALOBOX - Mabanua
+2. 🌈Awaken - Valerie Broussard/Ray Chen
+3. 🌈MEGALOBOX - Mabanua
+4. 🌈沸き上がる闘志 - 六三四
 
