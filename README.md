@@ -53,9 +53,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈情热大陆 - 葉加瀬太郎
-1. 🌈Hybrid Worlds - 英雄联盟
-2. 🌈Awaken - Valerie Broussard/Ray Chen
-3. 🌈MEGALOBOX - Mabanua
-4. 🌈沸き上がる闘志 - 六三四
+0. 🌈Hybrid Worlds - 英雄联盟
+1. 🌈Awaken - Valerie Broussard/Ray Chen
+2. 🌈沸き上がる闘志 - 六三四
+3. 🌈Legends Never Die - Against the Current
+4. 🌈菊花爆满山 (民谣版) - 马博
 
