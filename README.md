@@ -53,9 +53,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Liberators - Epic Score
+0. 🌈葬花 - 蓝云木/THT
 1. 🌈Hybrid Worlds - 英雄联盟
-2. 🌈Anesthesia - Vexento
-3. 🌈Awaken - Valerie Broussard/Ray Chen
-4. 🌈He's a Pirate (Pirates of the Caribbean theme) - David Garrett
+2. 🌈Awaken - Valerie Broussard/Ray Chen
+3. 🌈白いスーツのテーマ - 市川淳
+4. 🌈沸き上がる闘志 - 六三四
 
