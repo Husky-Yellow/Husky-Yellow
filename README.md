@@ -53,9 +53,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈葬花 - 蓝云木/THT
-1. 🌈白いスーツのテーマ - 市川淳
-2. 🌈沸き上がる闘志 - 六三四
-3. 🌈Disconnected - Pegboard Nerds
-4. 🌈Intro - The xx
+0. 🌈白いスーツのテーマ - 市川淳
+1. 🌈葬花 - 蓝云木/THT
+2. 🌈Intro - The xx
+3. 🌈Hey Baby (Sucky Sucky) (Instrumental) - Afro-Asian Boy
+4. 🌈Because of You - The Piano Guys
 
