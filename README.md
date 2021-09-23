@@ -53,9 +53,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Brotherhood - John Dreamer
-1. 🌈白いスーツのテーマ - 市川淳
-2. 🌈沸き上がる闘志 - 六三四
-3. 🌈可能否 - 木小雅
-4. 🌈消愁 - 毛不易
+0. 🌈白いスーツのテーマ - 市川淳
+1. 🌈沸き上がる闘志 - 六三四
+2. 🌈Disconnected - Pegboard Nerds
+3. 🌈葬花 - 蓝云木/THT
+4. 🌈恋愛サーキュレーション - 花澤香菜
 
