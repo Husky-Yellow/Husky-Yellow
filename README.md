@@ -53,9 +53,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈白いスーツのテーマ - 市川淳
-1. 🌈沸き上がる闘志 - 六三四
-2. 🌈Disconnected - Pegboard Nerds
-3. 🌈葬花 - 蓝云木/THT
-4. 🌈恋愛サーキュレーション - 花澤香菜
+0. 🌈Warriors - Imagine Dragons
+1. 🌈さくら 〜あなたに出会えてよかった〜 - RSP
+2. 🌈Yasuo - MMZ-BOY
+3. 🌈Creep - Gamper & Dadoni/Ember Island
+4. 🌈Hymn for the Weekend (SeeB Remix) - Coldplay/SeeB
 
