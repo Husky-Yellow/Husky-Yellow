@@ -53,9 +53,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Warriors - Imagine Dragons
-1. 🌈さくら 〜あなたに出会えてよかった〜 - RSP
-2. 🌈Yasuo - MMZ-BOY
-3. 🌈Creep - Gamper & Dadoni/Ember Island
-4. 🌈Hymn for the Weekend (SeeB Remix) - Coldplay/SeeB
+0. 🌈戏中风月 - 糯米Nomi
+1. 🌈落空 - 印子月
+2. 🌈Warriors - Imagine Dragons
+3. 🌈骁 - 井胧/井迪
+4. 🌈月无眠 - 酒禾.
 
