@@ -53,9 +53,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈戏中风月 - 糯米Nomi
-1. 🌈落空 - 印子月
-2. 🌈Warriors - Imagine Dragons
-3. 🌈骁 - 井胧/井迪
-4. 🌈月无眠 - 酒禾.
+0. 🌈无名之辈 - 汪苏泷
+1. 🌈戏中风月 - 糯米Nomi
+2. 🌈落空 - 印子月
+3. 🌈Warriors - Imagine Dragons
+4. 🌈骁 - 井胧/井迪
 
