@@ -55,7 +55,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈无名之辈 - 汪苏泷
 1. 🌈盗将行 - 花粥/马雨阳
-2. 🌈一笑倾城 - 汪苏泷
-3. 🌈我的未来不是梦 - 张雨生
-4. 🌈沙漠骆驼 - 展展与罗罗
+2. 🌈我的未来不是梦 - 张雨生
+3. 🌈菊花爆满山 (民谣版) - 马博
+4. 🌈迎着风（电影《四平青年之浩哥大战古惑仔》主题曲） - 蓝波
 
