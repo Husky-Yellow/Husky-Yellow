@@ -53,9 +53,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈无名之辈 - 汪苏泷
-1. 🌈盗将行 - 花粥/马雨阳
-2. 🌈我的未来不是梦 - 张雨生
-3. 🌈菊花爆满山 (民谣版) - 马博
-4. 🌈迎着风（电影《四平青年之浩哥大战古惑仔》主题曲） - 蓝波
+0. 🌈NoNoNo - Apink
+1. 🌈勋章 - 鹿晗
+2. 🌈마리오네트 - Stellar
+3. 🌈无名之辈 - 汪苏泷
+4. 🌈年轮 - 汪苏泷
 
