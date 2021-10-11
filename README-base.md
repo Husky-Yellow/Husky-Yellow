@@ -41,7 +41,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
    <img src="http://github-readme-streak-stats.herokuapp.com?user=Husky-Yellow&theme=neon-dark" />
 </p>
 
-
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ## My Project
