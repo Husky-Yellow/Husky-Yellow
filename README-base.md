@@ -30,6 +30,10 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 - 🏡 works：<a href="https://husky-bear.gitee.io/blob" target="_blank">前端博客 ✨</a> 
 - 💬 wx：xh473795376
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## My Data
 
 
@@ -40,11 +44,6 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
   <img src="https://profile-counter.glitch.me/husky-yellow/count.svg" /><br>
    <img src="http://github-readme-streak-stats.herokuapp.com?user=Husky-Yellow&theme=neon-dark" />
 </p>
-
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 ## My Project
 
