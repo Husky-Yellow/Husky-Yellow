@@ -50,9 +50,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈无名之辈 - 汪苏泷
-1. 🌈勋章 - 鹿晗
-2. 🌈마리오네트 - Stellar
-3. 🌈NoNoNo - Apink
-4. 🌈残酷な天使のテーゼ - 高橋洋子
+0. 🌈残酷な天使のテーゼ - 高橋洋子
+1. 🌈无名之辈 - 汪苏泷
+2. 🌈Deadwood - Really Slow Motion
+3. 🌈STAY - The Kid LAROI/Justin Bieber
+4. 🌈菊花爆满山 (民谣版) - 马博
 
