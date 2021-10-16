@@ -52,7 +52,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈残酷な天使のテーゼ - 高橋洋子
 1. 🌈无名之辈 - 汪苏泷
-2. 🌈Deadwood - Really Slow Motion
-3. 🌈STAY - The Kid LAROI/Justin Bieber
-4. 🌈菊花爆满山 (民谣版) - 马博
+2. 🌈STAY - The Kid LAROI/Justin Bieber
+3. 🌈皎然记 - 苏打海盐
+4. 🌈多幸运 - 居里里
 
