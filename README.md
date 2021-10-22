@@ -51,8 +51,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈梦在燃烧 - 汤子星
-1. 🌈残酷な天使のテーゼ - 高橋洋子
-2. 🌈无名之辈 - 汪苏泷
-3. 🌈STAY - The Kid LAROI/Justin Bieber
-4. 🌈Deadwood - Really Slow Motion
+1. 🌈川流不息 - 吴炜
+2. 🌈一捧江山在掌握 - 张佳
+3. 🌈四季 - 曾黎
+4. 🌈残酷な天使のテーゼ - 高橋洋子
 
