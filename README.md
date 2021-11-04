@@ -50,9 +50,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈黄种人 (戏韵版 live) - 谢霆锋
-1. 🌈少年中国说 (Live) - 张杰
-2. 🌈万疆 - 李玉刚
-3. 🌈梦在燃烧 - 汤子星
-4. 🌈残酷な天使のテーゼ - 高橋洋子
+0. 🌈残酷な天使のテーゼ - 高橋洋子
+1. 🌈裙下之臣 - 陈奕迅
+2. 🌈菊花爆满山 (民谣版) - 马博
+3. 🌈蜀绣 - 李宇春
+4. 🌈梦在燃烧 - 汤子星
 
