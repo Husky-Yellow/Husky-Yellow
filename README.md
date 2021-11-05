@@ -52,7 +52,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈残酷な天使のテーゼ - 高橋洋子
 1. 🌈裙下之臣 - 陈奕迅
-2. 🌈菊花爆满山 (民谣版) - 马博
-3. 🌈蜀绣 - 李宇春
-4. 🌈梦在燃烧 - 汤子星
+2. 🌈盗将行 - 花粥/马雨阳
+3. 🌈哑巴 - 薛之谦
+4. 🌈可不可以 - 张紫豪
 
