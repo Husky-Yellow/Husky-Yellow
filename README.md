@@ -53,6 +53,6 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 0. 🌈与你最后的夏天 - 司夏
 1. 🌈雪 - 杜婧荧/王艺翔
 2. 🌈第十二夜 - 汪苏泷
-3. 🌈残酷な天使のテーゼ - 高橋洋子
-4. 🌈裙下之臣 - 陈奕迅
+3. 🌈盗将行 - 花粥/马雨阳
+4. 🌈哑巴 - 薛之谦
 
