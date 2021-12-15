@@ -40,13 +40,13 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
   <img src="https://profile-counter.glitch.me/husky-yellow/count.svg" /><br>
    <img src="http://github-readme-streak-stats.herokuapp.com?user=Husky-Yellow&theme=neon-dark" />
 </p>
-
+<!-- 
 ## My Project
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=CodePromise&theme=dark)](https://github.com/Husky-Yellow/CodePromise) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=sensitive_word_substitution&theme=radical)](https://github.com/Husky-Yellow/sensitive_word_substitution) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=Code-Vue-Router&theme=merko)](https://github.com/Husky-Yellow/Code-Vue-Router) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=Code-Vuex&theme=gruvbox)](https://github.com/Husky-Yellow/Code-Vuex) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=Code-Vue-Router&theme=merko)](https://github.com/Husky-Yellow/Code-Vue-Router) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=Code-Vuex&theme=gruvbox)](https://github.com/Husky-Yellow/Code-Vuex) | -->
 
 😄 listen to my this week song list of top 5:
 
