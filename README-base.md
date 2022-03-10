@@ -21,7 +21,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 ![Prettier](https://img.shields.io/badge/-Prettier-%23142027?style=for-the-badge&logo=prettier)
 ![UNIAPP](https://img.shields.io/badge/-UNIAPP-%23CCC?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAABCElEQVRoge3YMa4BURSH8Y8o7UAp0WgkotBZwluAfhqlZSgUGr23ENUUCpppJnTswAIUSCaTiziZJ8d9/193zdzrfMltABF5plb+oLscDoAV0Pn8OC/lwDhL0k35QT3wstcIuM61Cj0IhXiNuAvOFwr5SgrxRiHeKMSbhnHfAVgU1i1gajhnBpwK6wnQtgxkDTlmSTq/L7rLYQ9byG+WpLvCOT8YQ6K5WgrxRiHeKMQbhXijEG8U4o1CvIkmxPrDquwMrI37KlFJSJake2BUxVlW0VytaEKsV6t5+8Ohak3rRmtIH9hav/QvRHO1FOKNQrwJheQfn+I9wflCIeNHLzuQc51PRP6rC1ZeIm1I8cC5AAAAAElFTkSuQmCC&logoColor=fff)
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Husky-Yellow/Husky-Yellow)
+[![Open in Visual Studio Code](https://camo.githubusercontent.com/0c830a4751be0fa62d221fb5b182e5ae4d6ff96274f44fd4c73902a0bb44f5d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456469746f722d56535f436f64652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d776869746526636f6c6f723d366161366638)](https://open.vscode.dev/Husky-Yellow/Husky-Yellow)
 
 ## Things I am passionate about
 
