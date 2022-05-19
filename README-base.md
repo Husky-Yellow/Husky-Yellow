@@ -17,7 +17,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)
 
-[![Open in Visual Studio Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)](https://open.vscode.dev/Husky-Yellow/Husky-Yellow)
+[![Open in Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://open.vscode.dev/Husky-Yellow/Husky-Yellow)
 
 ## Things I am passionate about
 
