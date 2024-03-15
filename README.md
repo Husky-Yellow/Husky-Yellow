@@ -45,4 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
+0. 🌈Touch The Sky (ANR151) - Cedric Gervais/Digital Farm Animals/Dallas Austin
+1. 🌈小丑的品格（Cover 泠鸢yousa） - 双笙（陈元汐）/三无MarBlue
+2. 🌈-BINGBIAN病变（张宗男 Remix） - 张宗男morii
+3. 🌈Boomerang - Brooks/GRX
+4. 🌈齐天 - 华晨宇
 
