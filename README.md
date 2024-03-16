@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Touch The Sky (ANR151) - Cedric Gervais/Digital Farm Animals/Dallas Austin
-1. 🌈小丑的品格（Cover 泠鸢yousa） - 双笙（陈元汐）/三无MarBlue
-2. 🌈-BINGBIAN病变（张宗男 Remix） - 张宗男morii
-3. 🌈Boomerang - Brooks/GRX
-4. 🌈齐天 - 华晨宇
+0. 🌈我要找到你 - Zic子晨
+1. 🌈Bloom of Youth - Key Sounds Label
+2. 🌈最美的期待 - 周笔畅
+3. 🌈迎着风 - 蓝波
+4. 🌈【盗墓笔记】吉光片羽－记《沙海》《藏海花》 - 小义学长
 
