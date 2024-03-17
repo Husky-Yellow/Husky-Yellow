@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈我要找到你 - Zic子晨
-1. 🌈Bloom of Youth - Key Sounds Label
-2. 🌈最美的期待 - 周笔畅
-3. 🌈迎着风 - 蓝波
-4. 🌈【盗墓笔记】吉光片羽－记《沙海》《藏海花》 - 小义学长
+0. 🌈胆小鬼 - 梁咏琪
+1. 🌈口是心非 - 孙伯纶
+2. 🌈我要找到你 - Zic子晨
+3. 🌈Bloom of Youth - Key Sounds Label
+4. 🌈有一种爱叫做放手 - 阿木
 
