@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈口是心非 - 孙伯纶
-1. 🌈红昭愿 - 音阙诗听
-2. 🌈棉花糖 - 至上励合
-3. 🌈易燃易爆炸 - 陈粒
-4. 🌈我们都是好孩子 - 王筝
+0. 🌈无名之辈 - 汪苏泷
+1. 🌈出山 - 花粥/王胜娚
+2. 🌈New Boy - 房东的猫/陈婧霏
+3. 🌈口是心非 - 孙伯纶
+4. 🌈我要找到你 - Zic子晨
 
