@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈无名之辈 - 汪苏泷
-1. 🌈出山 - 花粥/王胜娚
-2. 🌈New Boy - 房东的猫/陈婧霏
-3. 🌈口是心非 - 孙伯纶
-4. 🌈我要找到你 - Zic子晨
+0. 🌈口是心非 - 孙伯纶
+1. 🌈无名之辈 - 汪苏泷
+2. 🌈出山 - 花粥/王胜娚
+3. 🌈New Boy - 房东的猫/陈婧霏
+4. 🌈这一生关于你的风景 - 隔壁老樊
 
