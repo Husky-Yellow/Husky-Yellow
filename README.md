@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈剑心 - 张杰
-1. 🌈小丑的品格（Cover 泠鸢yousa） - 双笙（陈元汐）/三无MarBlue
-2. 🌈寒衫浮梦 - 双笙（陈元汐）
-3. 🌈清明 - HITA
-4. 🌈锦鲤抄 - 银临/云の泣
+0. 🌈New Boy - 房东的猫/陈婧霏
+1. 🌈twenty three - IU
+2. 🌈梦在燃烧 - 汤子星
+3. 🌈Deadwood - Really Slow Motion
+4. 🌈无名之辈 - 汪苏泷
 
