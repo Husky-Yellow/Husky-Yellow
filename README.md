@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈New Boy - 房东的猫/陈婧霏
-1. 🌈twenty three - IU
-2. 🌈梦在燃烧 - 汤子星
-3. 🌈Deadwood - Really Slow Motion
-4. 🌈无名之辈 - 汪苏泷
+0. 🌈twenty three - IU
+1. 🌈New Boy - 房东的猫/陈婧霏
+2. 🌈凭什么说 - 刘心
+3. 🌈菊花爆满山 (民谣版) - 马博
+4. 🌈梦在燃烧 - 汤子星
 
