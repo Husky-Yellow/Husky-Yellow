@@ -46,8 +46,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈twenty three - IU
-1. 🌈惊鸿醉 - 指尖笑
-2. 🌈New Boy - 房东的猫/陈婧霏
-3. 🌈无名之辈 - 汪苏泷
-4. 🌈凭什么说 - 刘心
+1. 🌈黄种人 (戏韵版 live) - 谢霆锋
+2. 🌈星河万里 - Rom邢锐
+3. 🌈菊花爆满山 (民谣版) - 马博
+4. 🌈梦在燃烧 - 汤子星
 
