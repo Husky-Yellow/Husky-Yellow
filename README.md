@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈twenty three - IU
+0. 🌈惊鸿醉 - 指尖笑
 1. 🌈黄种人 (戏韵版 live) - 谢霆锋
-2. 🌈星河万里 - Rom邢锐
-3. 🌈菊花爆满山 (民谣版) - 马博
-4. 🌈梦在燃烧 - 汤子星
+2. 🌈Everywhere We Go - 陈冠希/MC仁/厨房仔/应采儿
+3. 🌈不谓侠 - 萧忆情Alex
+4. 🌈我多想拥抱你 - 希林娜依高
 
