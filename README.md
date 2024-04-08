@@ -46,8 +46,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈黄种人 (戏韵版 live) - 谢霆锋
-1. 🌈惊鸿醉 - 指尖笑
-2. 🌈星河万里 - Rom邢锐
-3. 🌈后会无期 - 野小马
-4. 🌈Everywhere We Go - 陈冠希/MC仁/厨房仔/应采儿
+1. 🌈Titan - Starlyte
+2. 🌈惊鸿醉 - 指尖笑
+3. 🌈星河万里 - Rom邢锐
+4. 🌈后会无期 - 野小马
 
