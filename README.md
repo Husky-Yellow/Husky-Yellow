@@ -47,7 +47,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈黄种人 (戏韵版 live) - 谢霆锋
 1. 🌈Titan - Starlyte
-2. 🌈惊鸿醉 - 指尖笑
-3. 🌈星河万里 - Rom邢锐
-4. 🌈后会无期 - 野小马
+2. 🌈星河万里 - Rom邢锐
+3. 🌈Deadwood - Really Slow Motion
+4. 🌈燕无歇 - 璃陌梦
 
