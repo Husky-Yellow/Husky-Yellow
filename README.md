@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈黄种人 (戏韵版 live) - 谢霆锋
-1. 🌈Titan - Starlyte
-2. 🌈星河万里 - Rom邢锐
-3. 🌈Deadwood - Really Slow Motion
-4. 🌈燕无歇 - 璃陌梦
+0. 🌈Titan - Starlyte
+1. 🌈Deadwood - Really Slow Motion
+2. 🌈燕无歇 - 璃陌梦
+3. 🌈slow jam love - asukaboi
+4. 🌈Repeat（重复） - Chester Young/Rave Republic/Kris Kiss
 
