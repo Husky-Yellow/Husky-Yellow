@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Titan - Starlyte
-1. 🌈Deadwood - Really Slow Motion
-2. 🌈燕无歇 - 璃陌梦
-3. 🌈slow jam love - asukaboi
-4. 🌈Repeat（重复） - Chester Young/Rave Republic/Kris Kiss
+0. 🌈PLANET（Cover ラムジ） - ゆう十
+1. 🌈花降らし - ぱじ
+2. 🌈Deadwood - Really Slow Motion
+3. 🌈Tuesday (Original Mix) - Burak Yeter/Danelle Sandoval
+4. 🌈FLY-飞 - ANU
 
