@@ -47,7 +47,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈PLANET（Cover ラムジ） - ゆう十
 1. 🌈花降らし - ぱじ
-2. 🌈Deadwood - Really Slow Motion
-3. 🌈Tuesday (Original Mix) - Burak Yeter/Danelle Sandoval
-4. 🌈FLY-飞 - ANU
+2. 🌈Tuesday (Original Mix) - Burak Yeter/Danelle Sandoval
+3. 🌈FLY-飞 - ANU
+4. 🌈Clear (Shawn Wasabi Remix) - Shawn Wasabi/Pusher/Mothica
 
