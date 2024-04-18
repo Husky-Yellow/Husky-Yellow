@@ -46,8 +46,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈Tuesday (Original Mix) - Burak Yeter/Danelle Sandoval
-1. 🌈PLANET（Cover ラムジ） - ゆう十
-2. 🌈花降らし - ぱじ
-3. 🌈FLY-飞 - ANU
-4. 🌈Survive - Vanze/Neon Dreams
+1. 🌈Survive - Vanze/Neon Dreams
+2. 🌈SOZZA-Spartanos（N Y Duo Bootleg）（N-Y-Duo remix） - ʚԀƎƎHSɞ
+3. 🌈星河万里 - Rom邢锐
+4. 🌈Anatomy - DJRUSTAM/FIZO FAOUEZ
 
