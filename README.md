@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈无名之辈 - 汪苏泷
-1. 🌈身骑白马 - 张叶蕾
-2. 🌈New Boy - 房东的猫/陈婧霏
-3. 🌈星河万里 - Rom邢锐
-4. 🌈2002年的第一场雪 - 刀郎
+0. 🌈小丑的品格（Cover 泠鸢yousa） - 双笙（陈元汐）/三无MarBlue
+1. 🌈梦的光点 - 海岛甜心
+2. 🌈身骑白马 - 张叶蕾
+3. 🌈辞.九门回忆 - 解忧草/冰幽
+4. 🌈无名之辈 - 汪苏泷
 
