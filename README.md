@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈小丑的品格（Cover 泠鸢yousa） - 双笙（陈元汐）/三无MarBlue
-1. 🌈梦的光点 - 海岛甜心
-2. 🌈身骑白马 - 张叶蕾
-3. 🌈辞.九门回忆 - 解忧草/冰幽
-4. 🌈无名之辈 - 汪苏泷
+0. 🌈满天星辰不及你 - ycyccc
+1. 🌈5:20（我在五点二十睡觉，十三点十四准时起） - 刀酱/HUAJIANG
+2. 🌈第一次爱的人 - 王心凌
+3. 🌈挪威的森林 - 伍佰
+4. 🌈故梦 - 橙翼
 
