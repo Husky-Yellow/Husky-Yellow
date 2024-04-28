@@ -45,8 +45,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈满天星辰不及你 - ycyccc
-1. 🌈5:20（我在五点二十睡觉，十三点十四准时起） - 刀酱/HUAJIANG
+0. 🌈5:20（我在五点二十睡觉，十三点十四准时起） - 刀酱/HUAJIANG
+1. 🌈满天星辰不及你 - ycyccc
 2. 🌈第一次爱的人 - 王心凌
 3. 🌈挪威的森林 - 伍佰
 4. 🌈故梦 - 橙翼
