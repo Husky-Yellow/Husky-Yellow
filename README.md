@@ -45,9 +45,4 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈达尔文 - 林俊杰
-1. 🌈5:20（我在五点二十睡觉，十三点十四准时起） - 刀酱/HUAJIANG
-2. 🌈因为爱情 - 刘兆宇/Hattie海婷
-3. 🌈口是心非-张雨生 - 人间世
-4. 🌈紫荆花盛开 - DJ-Sean
 
