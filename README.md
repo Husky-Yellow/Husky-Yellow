@@ -45,5 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈紫荆花盛开 - DJ-Sean
+0. 🌈Blaze A Trail - October
+1. 🌈夜的钢琴曲五 - 邓壬鑫
+2. 🌈My Soul - July
+3. 🌈Always With Me - 木村弓/奥户巴寿
+4. 🌈花火が瞬く夜に - 羽肿
 
