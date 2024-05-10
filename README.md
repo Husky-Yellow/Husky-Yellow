@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Blaze A Trail - October
-1. 🌈夏 - 爱喝柠檬茶的喵
-2. 🌈夜的钢琴曲五 - 邓壬鑫
-3. 🌈My Soul - July
-4. 🌈Always With Me - 木村弓/奥户巴寿
+0. 🌈Anifled - Pianoboy高至豪
+1. 🌈那年记忆中的追寻 - Pianoboy高至豪
+2. 🌈夏日绿荫 - Pianoboy高至豪
+3. 🌈Blaze A Trail - October
+4. 🌈花临 - Pianoboy高至豪
 
