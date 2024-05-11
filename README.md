@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Anifled - Pianoboy高至豪
-1. 🌈那年记忆中的追寻 - Pianoboy高至豪
-2. 🌈夏日绿荫 - Pianoboy高至豪
-3. 🌈Blaze A Trail - October
-4. 🌈花临 - Pianoboy高至豪
+0. 🌈爱丽丝花园 - Pianoboy高至豪
+1. 🌈Layee - Pianoboy高至豪
+2. 🌈王者降临 - Pianoboy高至豪
+3. 🌈Anifled - Pianoboy高至豪
+4. 🌈那年记忆中的追寻 - Pianoboy高至豪
 
