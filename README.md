@@ -46,8 +46,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈囍（Chinese Wedding） - 葛东琪
-1. 🌈爱丽丝花园 - Pianoboy高至豪
-2. 🌈Layee - Pianoboy高至豪
-3. 🌈王者降临 - Pianoboy高至豪
-4. 🌈Anifled - Pianoboy高至豪
+1. 🌈梦在燃烧 - 汤子星
+2. 🌈5:20（我在五点二十睡觉，十三点十四准时起） - 刀酱/HUAJIANG
+3. 🌈黄种人 (戏韵版 live) - 谢霆锋
+4. 🌈爱丽丝花园 - Pianoboy高至豪
 
