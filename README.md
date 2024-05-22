@@ -45,9 +45,4 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈囍（Chinese Wedding） - 葛东琪
-1. 🌈黄昏 - 周传雄
-2. 🌈偏爱 - 张芸京
-3. 🌈水手 - 郑智化
-4. 🌈烟火一瞬 - 吼吼
 
