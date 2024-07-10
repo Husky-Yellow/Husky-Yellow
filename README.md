@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Phone Kisses - suhmeduh
-1. 🌈Jar Of Love (Album Version) - Wanting
-2. 🌈春を告げる - yama
-3. 🌈繁华的寂静 - 文武贝
-4. 🌈山湖共语 - 黄诗扶
+0. 🌈Legends Never Die - 英雄联盟/Against the Current
+1. 🌈情深深雨蒙蒙 - 小盒纸酱
+2. 🌈答案 - 杨坤/郭采洁
+3. 🌈Phone Kisses - suhmeduh
+4. 🌈Jar Of Love (Album Version) - Wanting
 
