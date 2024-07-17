@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Legends Never Die - 英雄联盟/Against the Current
-1. 🌈情深深雨蒙蒙 - 小盒纸酱
-2. 🌈答案 - 杨坤/郭采洁
-3. 🌈若月亮没来 (Live版) - 杨宗纬/宝石Gem/王宇宙Leto
-4. 🌈千千万万 - 深海鱼子酱
+0. 🌈若月亮没来 (Live版) - 杨宗纬/宝石Gem/王宇宙Leto
+1. 🌈东南西北风 - 黄安
+2. 🌈雪 - 杜婧荧
+3. 🌈时间煮雨 - 郁可唯
+4. 🌈5:20AM - 刀酱
 
