@@ -47,7 +47,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈若月亮没来 (Live版) - 杨宗纬/宝石Gem/王宇宙Leto
 1. 🌈东南西北风 - 黄安
-2. 🌈雪 - 杜婧荧
-3. 🌈时间煮雨 - 郁可唯
-4. 🌈5:20AM - 刀酱
+2. 🌈挪威的森林 - 伍佰
+3. 🌈飘摇 - 周迅
+4. 🌈浩瀚 - 张杰
 
