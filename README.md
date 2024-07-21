@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈若月亮没来 (Live版) - 杨宗纬/宝石Gem/王宇宙Leto
-1. 🌈东南西北风 - 黄安
-2. 🌈挪威的森林 - 伍佰
-3. 🌈飘摇 - 周迅
-4. 🌈浩瀚 - 张杰
+0. 🌈悲怆奏鸣曲 - Ludwig van Beethoven
+1. 🌈The truth that you leave - Pianoboy高至豪
+2. 🌈Anifled - Pianoboy高至豪
+3. 🌈那年记忆中的追寻 - Pianoboy高至豪
+4. 🌈The Truth That You Leave - Pianoboy高至豪
 
