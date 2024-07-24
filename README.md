@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈悲怆奏鸣曲 - Ludwig van Beethoven
-1. 🌈The truth that you leave - Pianoboy高至豪
-2. 🌈Anifled - Pianoboy高至豪
-3. 🌈那年记忆中的追寻 - Pianoboy高至豪
-4. 🌈The Truth That You Leave - Pianoboy高至豪
+0. 🌈我要的飞翔 - 许飞
+1. 🌈想念的歌 - 朱梓骁
+2. 🌈分身情人 - 魏晨
+3. 🌈拾忆 - 张翰
+4. 🌈让我为你唱首歌 - 张翰/朱梓骁/魏晨/俞灏明
 
