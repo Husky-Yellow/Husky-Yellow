@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈我要的飞翔 - 许飞
-1. 🌈想念的歌 - 朱梓骁
-2. 🌈分身情人 - 魏晨
-3. 🌈拾忆 - 张翰
-4. 🌈让我为你唱首歌 - 张翰/朱梓骁/魏晨/俞灏明
+0. 🌈分身情人 - 魏晨
+1. 🌈拾忆 - 张翰
+2. 🌈星空物语 - 张翰/朱梓骁/魏晨/俞灏明
+3. 🌈一个人的浪漫 - 俞灏明
+4. 🌈练习题 - 江映蓉
 
