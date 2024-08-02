@@ -45,9 +45,4 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈星空物语 - 张翰/朱梓骁/魏晨/俞灏明
-1. 🌈分身情人 - 魏晨
-2. 🌈一个人的浪漫 - 俞灏明
-3. 🌈拾忆 - 张翰
-4. 🌈星空物语(Guitar Instrumental) - 群星
 
