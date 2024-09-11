@@ -45,5 +45,6 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈桃乐茜的来信 - I'll call you.
+0. 🌈浪漫爱 - 刘瑞琦
+1. 🌈桃乐茜的来信 - I'll call you.
 
