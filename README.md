@@ -45,7 +45,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈以爱为囚 - 满舒克
-1. 🌈浪漫爱 - 刘瑞琦
-2. 🌈桃乐茜的来信 - I'll call you.
+0. 🌈海岸日记 - 海妖SeaMaiden/小老虎
+1. 🌈以爱为囚 - 满舒克
+2. 🌈浪漫爱 - 刘瑞琦
+3. 🌈桃乐茜的来信 - I'll call you.
 
