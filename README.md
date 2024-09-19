@@ -48,6 +48,5 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 0. 🌈莫里森与杂货铺 - 马赛克
 1. 🌈慢慢 - 岳燃
 2. 🌈海岸日记 - 海妖SeaMaiden/小老虎
-3. 🌈以爱为囚 - 满舒克
-4. 🌈浪漫爱 - 刘瑞琦
+3. 🌈竹 (Bamboo) - Far East Movement/张杰
 
