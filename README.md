@@ -46,6 +46,6 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈莫里森与杂货铺 - 马赛克
-1. 🌈慢慢 - 岳燃
+1. 🌈刺猬 - 于文文
 2. 🌈竹 (Bamboo) - Far East Movement/张杰
 
