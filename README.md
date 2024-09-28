@@ -46,6 +46,6 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈海胆日记 - 刘大拿
-1. 🌈海妖·无尽夏 - 刘兆宇/糯米Nomi
-2. 🌈刺猬 - 于文文
+1. 🌈不属于地球上的 - 江楠江楠_
+2. 🌈海妖·无尽夏 - 刘兆宇/糯米Nomi
 
