@@ -46,6 +46,5 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈不属于地球上的 - 江楠江楠_
-1. 🌈海妖·无尽夏 - 刘兆宇/糯米Nomi
-2. 🌈心碎莫扎特 - 暴躁的兔子
+1. 🌈心碎莫扎特 - 暴躁的兔子
 
