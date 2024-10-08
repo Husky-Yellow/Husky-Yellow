@@ -45,5 +45,6 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈心碎莫扎特 - 暴躁的兔子
+0. 🌈父辈爱情freestyle - WilB da water/SwordsAndWalk/Lonn.E
+1. 🌈心碎莫扎特 - 暴躁的兔子
 
