@@ -47,4 +47,5 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈父辈爱情freestyle - WilB da water/SwordsAndWalk/Lonn.E
 1. 🌈圣地的火车 - 环跳 Ring Jump
+2. 🌈竹 (Bamboo) - Far East Movement/张杰
 
