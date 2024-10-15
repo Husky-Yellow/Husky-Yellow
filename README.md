@@ -46,7 +46,8 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 😄 listen to my this week song list of top 5:
 
 0. 🌈父辈爱情freestyle - WilB da water/SwordsAndWalk/Lonn.E
-1. 🌈圣地的火车 - 环跳 Ring Jump
-2. 🌈就想赖着你 - 言承旭
-3. 🌈竹 (Bamboo) - Far East Movement/张杰
+1. 🌈麦当劳汉堡（正版授权） - 小pa
+2. 🌈圣地的火车 - 环跳 Ring Jump
+3. 🌈就想赖着你 - 言承旭
+4. 🌈竹 (Bamboo) - Far East Movement/张杰
 
