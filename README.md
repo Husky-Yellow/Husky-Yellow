@@ -45,9 +45,9 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈有什么奇怪 - 郭顶
-1. 🌈父辈爱情freestyle - WilB da water/SwordsAndWalk/Lonn.E
+0. 🌈要不要来Ft.宇宙人 - SJIN
+1. 🌈有什么奇怪 - 郭顶
 2. 🌈麦当劳汉堡（正版授权） - 小pa
-3. 🌈圣地的火车 - 环跳 Ring Jump
-4. 🌈就想赖着你 - 言承旭
+3. 🌈就想赖着你 - 言承旭
+4. 🌈竹 (Bamboo) - Far East Movement/张杰
 
