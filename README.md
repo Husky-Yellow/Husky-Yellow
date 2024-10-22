@@ -48,6 +48,5 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 0. 🌈小鹿乱撞 - 永彬Ryan.B/狄迪（D-DAY）
 1. 🌈要不要来Ft.宇宙人 - SJIN
 2. 🌈有什么奇怪 - 郭顶
-3. 🌈麦当劳汉堡（正版授权） - 小pa
-4. 🌈金都 - 大都会乐团
+3. 🌈金都 - 大都会乐团
 
