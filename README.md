@@ -47,5 +47,5 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈第二杯半价 - 纳豆nado
 1. 🌈Melody - ZIV/KIPES
-2. 🌈要不要来Ft.宇宙人 - SJIN
+2. 🌈就想赖着你 - 言承旭
 
