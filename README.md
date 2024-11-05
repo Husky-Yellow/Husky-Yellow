@@ -45,7 +45,7 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈Melody - ZIV/KIPES
-1. 🌈Coins Obtained - V.A.
-2. 🌈就想赖着你 - 言承旭
+0. 🌈Coins Obtained - V.A.
+1. 🌈就想赖着你 - 言承旭
+2. 🌈Melody - ZIV/KIPES
 
