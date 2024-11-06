@@ -47,5 +47,4 @@ I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vu
 
 0. 🌈Coins Obtained - V.A.
 1. 🌈就想赖着你 - 言承旭
-2. 🌈Melody - ZIV/KIPES
 
