@@ -1,48 +1,145 @@
-# Hello 👋
+<h1 align="center">Hi 👋, I'm Zhaokun Zhang</h1>
+<h3 align="center">A passionate Senior Frontend Developer from China</h3>
 
-## About me
-
-I'm Zhaokun Zhang, A front-end developer, the technology stack is JavaScript, Vue, React,In [the Nuggets community](https://juejin.cn/user/2999123452110574).Occasionally write blogs and participate in open source  
-
-## 🔧 Technologies & Tools
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
-![Rollup](https://img.shields.io/badge/-Rollup.js-%23434343?style=for-the-badge&logo=rollup.js)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)
-
-[![Open in Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://open.vscode.dev/Husky-Yellow/Husky-Yellow)
-
-## Things I am passionate about
-
-- 😺 FrontEnd :robot:
-- 🌱 Open source :octocat:
-- 🏡 works：<a href="https://husky-bear.gitee.io/blob" target="_blank">前端博客 ✨</a> 
-
-## My Data
-
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Husky-Yellow&column=-1" alt="Husky-Yellow" /></p>
-<p><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Husky-Yellow&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husky-Yellow&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /></p>
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Husky-Yellow&theme=redical&show_icons=true&locale=cn&line_height=30"> -->
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/husky-yellow/count.svg" /><br>
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=Husky-Yellow&theme=neon-dark" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Senior+Frontend+Developer;Vue.js+%26+React+Expert;Open+Source+Contributor;Element3+%7C+Core+%7C+New-API" alt="Typing SVG" />
 </p>
-<!-- 
-## My Project
 
-|                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=CodePromise&theme=dark)](https://github.com/Husky-Yellow/CodePromise) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=sensitive_word_substitution&theme=radical)](https://github.com/Husky-Yellow/sensitive_word_substitution) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=Code-Vue-Router&theme=merko)](https://github.com/Husky-Yellow/Code-Vue-Router) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=Code-Vuex&theme=gruvbox)](https://github.com/Husky-Yellow/Code-Vuex) | -->
+<div align="center">
 
-😄 listen to my this week song list of top 5:
+  [![Profile Views](https://komarev.com/ghpvc/?username=husky-yellow&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/husky-yellow)
+  [![GitHub followers](https://img.shields.io/github/followers/husky-yellow?label=Followers&style=social)](https://github.com/husky-yellow?tab=followers)
 
+</div>
 
+---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 🚀 About Me
+
+- 🔭 I'm currently working on **Frontend Architecture & Performance Optimization**
+
+- 🌱 I'm currently learning **Advanced React Patterns & Vue 3 Composition API**
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Husky-Yellow)
+
+- 💬 Ask me about **Vue.js, React, JavaScript, Frontend Performance**
+
+- 📫 How to reach me: **Active on [Nuggets Community](https://juejin.cn/user/2999123452110574)**
+
+- ⚡ Fun fact: **I believe code is poetry and logic is art**
+
+<br clear="both">
+
+---
+
+## 🏆 Open Source Contributions
+
+<div align="center">
+
+I'm proud to have contributed to these amazing projects:
+
+| Project | Description | Role |
+|---------|-------------|------|
+| 🎨 **Element3** | Vue 3 UI Library | Core Contributor |
+| ⚡ **Core** | Fundamental Libraries | Contributor |
+| 🔥 **New-API** | Modern API Solutions | Contributor |
+
+</div>
+
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
+[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=husky-yellow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husky-yellow&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=husky-yellow&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=husky-yellow&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=husky-yellow&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Husky-Yellow/CodePromise">
+  <img width="24%" src="https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=CodePromise&theme=tokyonight&hide_border=true" alt="CodePromise" />
+</a>
+<a href="https://github.com/Husky-Yellow/sensitive_word_substitution">
+  <img width="24%" src="https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=sensitive_word_substitution&theme=tokyonight&hide_border=true" alt="Sensitive Word Substitution" />
+</a>
+<a href="https://github.com/Husky-Yellow/Code-Vue-Router">
+  <img width="24%" src="https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=Code-Vue-Router&theme=tokyonight&hide_border=true" alt="Vue Router Implementation" />
+</a>
+<a href="https://github.com/Husky-Yellow/Code-Vuex">
+  <img width="24%" src="https://github-readme-stats.vercel.app/api/pin/?username=Husky-Yellow&repo=Code-Vuex&theme=tokyonight&hide_border=true" alt="Vuex Implementation" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Connect with me
+
+<div align="center">
+
+[![Nuggets](https://img.shields.io/badge/Nuggets-006CFF?style=for-the-badge&logoColor=white)](https://juejin.cn/user/2999123452110574)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Husky-Yellow)
+
+</div>
+
+---
+
+<div align="center">
+
+  ### ✨ "Code as Poetry, Logic as Art" ✨
+
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+  **Thanks for visiting! Have a great day! 😊**
+
+</div>
