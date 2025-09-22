@@ -7,8 +7,8 @@
 
 <div align="center">
 
-  [![Profile Views](https://komarev.com/ghpvc/?username=husky-yellow&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/husky-yellow)
-  [![GitHub followers](https://img.shields.io/github/followers/husky-yellow?label=Followers&style=social)](https://github.com/husky-yellow?tab=followers)
+  [![Profile Views](https://komarev.com/ghpvc/?username=ZKunZhang&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ZKunZhang)
+  [![GitHub followers](https://img.shields.io/github/followers/ZKunZhang?label=Followers&style=social)](https://github.com/ZKunZhang?tab=followers)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 - 🌱 I'm currently learning **Advanced React Patterns & Vue 3 Composition API**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Husky-Yellow)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ZKunZhang)
 
 - 💬 Ask me about **Vue.js, React, JavaScript, Frontend Performance**
 
